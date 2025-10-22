@@ -1,5 +1,5 @@
 Hands-On L10: Spark Structured Streaming with MLlib
-🧠 Overview
+Overview
 
 This assignment showcases how Apache Spark Structured Streaming and Spark MLlib can be used together to perform real-time predictive analytics on ride-sharing data.
 It focuses on two core tasks:
@@ -149,7 +149,7 @@ Submission Checklist
 
  README documented
 
-🏁 Results & Insights
+Results & Insights
 
 Task 4: Successfully streamed real-time predictions with calculated deviations between actual and estimated fares.
 
